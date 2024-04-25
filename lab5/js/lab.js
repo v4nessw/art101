@@ -19,3 +19,20 @@ function main() {
 
 // let's get this party started
 main();
+
+//Defining Variables
+let make = "Toyota";
+let model = "Camry";
+let color = "White";
+let year = 2002;
+
+//Defining and calculating age
+let age = 2024 - 2002;
+
+//output
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model + "<br>");
+document.writeln("Color: " + color + "</br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + "<years<br>");
+
