@@ -27,7 +27,7 @@ let color = "White";
 let year = 2002;
 
 //Defining and calculating age
-let age = 2024 - 2002;
+let age = 2024 - year;
 
 //output
 document.writeln("Make: " + make + "<br>");
