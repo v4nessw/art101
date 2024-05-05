@@ -15,9 +15,9 @@ console.log("My array", array);
 
 var result =  array.map(isEven);
 //should return [false, true, false, true, true, true, true]
-console.log("Test of evenness of array:", results);
+console.log("Test of evenness of array:", result);
 
-var result = arrau/map(function(x){
+var result = array.map(function(x){
   return x ** 0.5;
 })
 //should return [[3.872983346207417, 5.656854249492381, 3, 8.366600265340756, 8, 27.09243436828813, 30]
