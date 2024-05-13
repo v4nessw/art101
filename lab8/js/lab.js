@@ -22,4 +22,3 @@ var result = array.map(function(x){
 })
 //should return [[3.872983346207417, 5.656854249492381, 3, 8.366600265340756, 8, 27.09243436828813, 30]
 console.log("Squareroot of array:", result);
-
