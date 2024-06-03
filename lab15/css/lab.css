@@ -1,0 +1,16 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+
+#activate {
+  width: 100px;
+  height: 30px;
+  background-color: darkgreen;
+}
+
+#output {
+  background-color: lightpink;
+}
